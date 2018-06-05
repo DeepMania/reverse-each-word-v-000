@@ -3,5 +3,6 @@ def reverse_each_word(text)
   reversed_text = []
   text_into_array.each do |word|
     reversed_text << word.reverse
-    
+  end
+  reversed_text.join
 end
