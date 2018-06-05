@@ -18,3 +18,4 @@ end
   end
   text_into_array.join(" ")
 end
+=end
